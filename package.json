@@ -1,0 +1,19 @@
+{
+  "name": "security_lab1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.19.2",
+    "express-status-monitor": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
